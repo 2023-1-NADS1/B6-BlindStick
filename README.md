@@ -4,28 +4,21 @@
 <a href= "https://www.fecap.br/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhZPrRa89Kma0ZZogxm0pi-tCn_TLKeHGVxywp-LXAFGR3B1DPouAJYHgKZGV0XTEf4AE&usqp=CAU" alt="FECAP - Fundação de Comércio Álvares Penteado" border="0"></a>
 </p>
 
-# Nome do Projeto
+# BlindStick
 
-## Nome do Grupo
+## Integrantes: <a href="https://www.linkedin.com/in/viniciusburato/">Vinicius Burato</a>, <a href="https://www.linkedin.com/in/nicolle-costa-a85100211/">Nicolle Silva</a>, <a href="https://www.linkedin.com/in/rebeca-da-silva-vieira-850a83242/">Rebeca da Silva Vieira</a>, Rafael Pinto Silva</a>
 
-## Integrantes: <a href="https://www.linkedin.com/in/victorbarq/">Goku Sayajin</a>, <a href="https://www.linkedin.com/in/victorbarq/">Saitama One</a>, <a href="https://www.linkedin.com/in/victorbarq/">Ikki de Fenix</a>, <a href="https://www.linkedin.com/in/victorbarq/">Yusuke Urameshi</a>, <a href="https://www.linkedin.com/in/victorbarq/">Roronoa Zoro</a>
-
-## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Dr. Victor Von Doom</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Saitama</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Strange</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Yoda</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Gero</a>
+## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/"> Prof. Victor Bruno Alexander Rosetti de Quiroz</a>, <a href="https://www.linkedin.com/in/eduardo-savino-gomes-77833a10/"> Prof. Eduardo Savino</a>, Prof. Adriano Felix Valente </a>, <a href="https://www.linkedin.com/in/ronaldo-araujo-pinto-3542811a/">Prof. Ronaldo Araujo Pinto </a>
 
 ## Descrição
 
 <p align="center">
-<img src="https://pix4free.org/assets/library/2021-01-20/originals/game.jpg" alt="NOME DO JOGO" border="0">
-  Game by <a href="http://www.nyphotographic.com/">Nick Youngson</a> <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> <a href="http://pix4free.org/">Pix4free</a>
+<img src="https://i0.wp.com/lhblind.org/wp-content/uploads/2021/10/AdobeStock_231187109-web.jpg?fit=2000%2C1329&ssl=1" alt="BLINDSTICK" border="0">
+  Image By @Daniel </a> <a href="https://stock.adobe.com/br/contributor/207041792/daniel"> Stock Adobe </a>
 </p>
 
 
-De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
-<br><br>
-Meu projeto ajuda estudantes FECAP a configurarem seus githubs.
-<br><br>
-May the force be with you!
-<br><br>
+O projeto BlindStick surgiu da necessidade de solucionar o desafio diário da mobilidade para os deficientes visuais em São Paulo, onde ruas com muitos buracos e elevações representam um perigo constante. Para enfrentar essa questão, criamos uma guia equipada com sensores de alerta, capazes de identificar essas irregularidades e auxiliar o usuário a desviar delas, proporcionando um nível de segurança maior e auxiliando na prevenção de acidentes.
 
 ## 🛠 Estrutura de pastas
 
@@ -60,36 +53,10 @@ Há também 4 pastas que seguem da seguinte forma:
 
 ## 🛠 Instalação
 
-<b>Android:</b>
-
-Faça o Download do JOGO.apk no seu celular.
-Execute o APK e siga as instruções de seu telefone.
-
-```sh
-Coloque código do prompt de comnando se for necessário
-```
-
-<b>Windows:</b>
-
-Não há instalação! Apenas executável!
-Encontre o JOGO.exe na pasta executáveis e execute-o como qualquer outro programa.
-
-```sh
-Coloque código do prompt de comnando se for necessário
-```
-
 <b>HTML:</b>
 
 Não há instalação!
 Encontre o index.html na pasta executáveis e execute-o como uma página WEB (através de algum browser).
-
-## 💻 Configuração para Desenvolvimento
-
-Descreva como instalar todas as dependências para desenvolvimento e como rodar um test-suite automatizado de algum tipo. Se necessário, faça isso para múltiplas plataformas.
-
-Para abrir este projeto você necessita das seguintes ferramentas:
-
--<a href="https://godotengine.org/download">GODOT</a>
 
 ```sh
 make install
@@ -101,13 +68,6 @@ Coloque código do prompt de comnando se for necessário
 
 A cada atualização os detalhes devem ser lançados aqui.
 
-* 0.2.1 - 25/01/2022
-    * MUDANÇA: Atualização de docs (código do módulo permanece inalterado)
-* 0.2.0 - 15/01/2022
-    * MUDANÇA: Remove `setDefaultXYZ()`
-    * ADD: Adiciona `init()`
-* 0.1.1 - 11/01/2022
-    * CONSERTADO: Crash quando chama `baz()` (Obrigado @NomeDoContribuidorGeneroso!)
 * 0.1.0 - 10/01/2022
     * O primeiro lançamento adequado
     * MUDANÇA: Renomeia `foo()` para `bar()`
@@ -121,7 +81,7 @@ A cada atualização os detalhes devem ser lançados aqui.
 
 Aqui estão as referências usadas no projeto.
 
-1. <https://github.com/iuricode/readme-template>
+1. <https://randomnerdtutorials.com/esp32-web-server-arduino-ide/>
 2. <https://github.com/gabrieldejesus/readme-model>
 3. <https://creativecommons.org/share-your-work/>
 4. <https://freesound.org/>
