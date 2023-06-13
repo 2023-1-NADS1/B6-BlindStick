@@ -6,7 +6,7 @@
 
 # BlindStick
 
-## Integrantes: <a href="https://www.linkedin.com/in/viniciusburato/">Vinicius Burato</a>, <a href="https://www.linkedin.com/in/nicolle-costa-a85100211/">Nicolle Silva</a>, <a href="https://www.linkedin.com/in/rebeca-da-silva-vieira-850a83242/">Rebeca da Silva Vieira</a>, Rafael Pinto Silva</a>
+## Integrantes: <a href="https://www.linkedin.com/in/viniciusburato/">Vinicius Burato</a>, <a href="https://www.linkedin.com/in/nicolle-costa-a85100211/">Nicolle Costa</a>, <a href="https://www.linkedin.com/in/rebeca-da-silva-vieira-850a83242/">Rebeca da Silva Vieira</a>, Rafael Pinto Silva</a>
 
 ## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/"> Prof. Victor Bruno Alexander Rosetti de Quiroz</a>, <a href="https://www.linkedin.com/in/eduardo-savino-gomes-77833a10/"> Prof. Eduardo Savino</a>, Prof. Adriano Felix Valente </a>, <a href="https://www.linkedin.com/in/ronaldo-araujo-pinto-3542811a/">Prof. Ronaldo Araujo Pinto </a>
 
