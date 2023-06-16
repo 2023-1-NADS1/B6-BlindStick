@@ -23,8 +23,7 @@ O projeto BlindStick surgiu da necessidade de solucionar o desafio diário da mo
 ## 🛠 Estrutura de pastas
 
 |-->documentos<br>
-  &emsp;|->antigos<br>
-  &emsp;|Documentação.docx<br>
+  &emsp;|Formulário.docx<br>
 |-->executáveis<br>
   &emsp;|-->HTML<br>
 |-->imagens<br>
@@ -33,43 +32,25 @@ O projeto BlindStick surgiu da necessidade de solucionar o desafio diário da mo
   &emsp;|-->12.06 Code
 |readme.md<br>
 
-
-<b>README.MD</b>: Arquivo que serve como guia e explicação geral sobre seu projeto. O mesmo que você está lendo agora.
-
-Há também 4 pastas que seguem da seguinte forma:
-
-<b>documentos</b>: Toda a documentação estará nesta pasta.
-
-<b>executáveis</b>: Binários e executáveis do projeto devem estar nesta pasta.
-
-<b>imagens</b>: Imagens do sistema
-
-<b>src</b>: Pasta que contém o código fonte.
-
 ## 🛠 Instalação
 
 <b>HTML:</b>
 
 Não há instalação!
-Encontre o index.html na pasta executáveis e execute-o como uma página WEB (através de algum browser).
-
-```sh
-make install
-npm test
-Coloque código do prompt de comnando se for necessário
-```
+Encontre o endereço na pasta "executáveis" e acesse através do browser de sua escolha.
 
 ## 🗃 Histórico de lançamentos
 
-A cada atualização os detalhes devem ser lançados aqui.
-
-* 0.1.0 - 10/01/2022
-    * O primeiro lançamento adequado
-    * MUDANÇA: Renomeia `foo()` para `bar()`
-* 0.0.1 - 01/01/2022
-    * Trabalho em andamento
-
-## 📋 Licença/License
+ * 0.0.0 - 30/03/2023
+    * Idealização do tema geral do projeto e modelagem conceitual do mesmo.
+ * 0.0.1 - 17/04/2023   
+    * MONTAGEM: Arduino R3, sensores ultrassônicos e buzzer.
+    * MUDANÇA: "Utilização do ESP32 e criação do servidor"
+ * 0.0.2 - 11/05/2022
+    * MONTAGEM: Estrutura física e fixação dos componentes no bastão.
+ * 0.0.3 - 26/05/2022
+    * Finalização
+    * Montagem final e ajustes.
 
 
 ## 🎓 Referências
@@ -79,5 +60,3 @@ Aqui estão as referências usadas no projeto.
 1. <https://randomnerdtutorials.com/esp32-web-server-arduino-ide/>
 2. <https://github.com/gabrieldejesus/readme-model>
 3. <https://creativecommons.org/share-your-work/>
-4. <https://freesound.org/>
-5. Músicas por: <a href="https://freesound.org/people/DaveJf/sounds/616544/"> DaveJf </a> e <a href="https://freesound.org/people/DRFX/sounds/338986/"> DRFX </a> ambas com Licença CC 0.
