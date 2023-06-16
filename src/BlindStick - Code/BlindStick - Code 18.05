@@ -1,0 +1,81 @@
+// C++ code
+//
+const int trigPin = 10;
+const int echoPin = 13;
+const int PtrigPin = 11;
+const int PechoPin = 12;
+const int buzz = 9;
+const int vib = 7;
+// define variaveis
+long duracao;
+float distancia;
+
+
+void setup()
+{
+pinMode(trigPin, OUTPUT); // Define o trigPin como Output
+pinMode(echoPin, INPUT); // Define o echoPin como Input
+pinMode(PtrigPin, OUTPUT);
+pinMode(PechoPin, INPUT);
+pinMode(buzz, OUTPUT);
+pinMode(vib, OUTPUT);
+Serial.begin(9600);
+}
+
+void loop()
+{
+digitalWrite(trigPin, LOW);
+delayMicroseconds(7);
+// Mantem trigpin em HIGH por 10 micro segundos
+digitalWrite(trigPin, HIGH);
+delayMicroseconds(10);
+digitalWrite(trigPin, LOW);
+// le o echoPin, e retorna a onda sonora e o tempo da distancia em microsegundos
+duracao = pulseIn(echoPin, HIGH);
+// Calculando a distancia
+distancia= duracao*0.034/2.0;
+// imprime a distancia no Monitor Serial
+Serial.print("Distancia: ");
+Serial.println(distancia);
+if (distancia < 70)
+{
+Serial.print(distancia);
+Serial.println("ALERTA DE OBJETO");
+digitalWrite(vib, HIGH);
+digitalWrite(buzz,HIGH);
+delay(100);
+
+digitalWrite(buzz,LOW);
+digitalWrite(vib, LOW);
+for (int i= (distancia-40); i>0; i--)
+delay(10);
+}
+{
+digitalWrite(PtrigPin, LOW);
+delayMicroseconds(7);
+// Mantem trigpin em HIGH por 10 micro segundos
+digitalWrite(PtrigPin, HIGH);
+delayMicroseconds(10);
+digitalWrite(PtrigPin, LOW);
+// le o echoPin, e retorna a onda sonora e o tempo da distancia em microsegundos
+duracao = pulseIn(PechoPin, HIGH);
+// Calculando a distancia
+distancia= duracao*0.030/2.0;
+// imprime a distancia no Monitor Serial
+Serial.print("Distancia: ");
+Serial.println(distancia);
+if (distancia < 100)
+{
+Serial.print(distancia);
+Serial.println("ALERTA DE OBJETO");
+digitalWrite(vib, HIGH);
+digitalWrite(buzz,HIGH);
+delay(100);
+
+digitalWrite(buzz,LOW);
+digitalWrite(vib, LOW);
+for (int i= (distancia-40); i>0; i--)
+delay(10);
+}
+}
+}
