@@ -23,13 +23,13 @@ O projeto BlindStick surgiu da necessidade de solucionar o desafio diário da mo
 ## 🛠 Estrutura de pastas
 
 |-->documentos<br>
-  &emsp;|Formulário.docx<br>
+  &emsp;|Formulário de Extensão.docx<br>
 |-->executáveis<br>
-  &emsp;|-->HTML<br>
+  &emsp;|-->html server.txt<br>
 |-->imagens<br>
 &emsp;|->modelo<br>
 |-->src<br>
-  &emsp;|-->12.06 Code
+  &emsp;|-->25.06 Code
 |readme.md<br>
 
 ## 🛠 Instalação
