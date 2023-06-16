@@ -13,8 +13,7 @@
 ## Descrição
 
 <p align="center">
-<img src="https://i0.wp.com/lhblind.org/wp-content/uploads/2021/10/AdobeStock_231187109-web.jpg?fit=2000%2C1329&ssl=1" alt="BLINDSTICK" border="0">
-  Image By @Daniel </a> <a href="https://stock.adobe.com/br/contributor/207041792/daniel"> Stock Adobe </a>
+<img src="BlindStick - Logo">
 </p>
 
 
