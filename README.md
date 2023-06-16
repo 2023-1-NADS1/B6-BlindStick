@@ -55,8 +55,6 @@ Encontre o endereço na pasta "executáveis" e acesse através do browser de sua
 
 ## 🎓 Referências
 
-Aqui estão as referências usadas no projeto.
-
-1. <https://randomnerdtutorials.com/esp32-web-server-arduino-ide/>
-2. <https://github.com/gabrieldejesus/readme-model>
-3. <https://creativecommons.org/share-your-work/>
+1. Web Server com o ESP32 - <https://randomnerdtutorials.com/esp32-web-server-arduino-ide/>
+2. Sensor de movimento e ligação com o ESP32 - <https://esp32io.com/tutorials/esp32-motion-sensor/>
+3. Pontos de Acesso - <https://blog.eletrogate.com/pontos-de-acesso-com-esp32/>
