@@ -22,22 +22,17 @@ O projeto BlindStick surgiu da necessidade de solucionar o desafio diário da mo
 
 ## 🛠 Estrutura de pastas
 
--Raiz<br>
-|<br>
 |-->documentos<br>
-  &emsp;|-->antigos<br>
+  &emsp;|->antigos<br>
   &emsp;|Documentação.docx<br>
 |-->executáveis<br>
-  &emsp;|-->windows<br>
-  &emsp;|-->android<br>
   &emsp;|-->HTML<br>
 |-->imagens<br>
+&emsp;|->modelo<br>
 |-->src<br>
-  &emsp;|-->Backend<br>
-  &emsp;|-->Frontend<br>
+  &emsp;|-->12.06 Code
 |readme.md<br>
 
-A pasta raiz contem dois arquivos que devem ser alterados:
 
 <b>README.MD</b>: Arquivo que serve como guia e explicação geral sobre seu projeto. O mesmo que você está lendo agora.
 
