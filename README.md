@@ -13,7 +13,7 @@
 ## Descrição
 
 <p align="center">
-<img src="BlindStick.Logo.png">
+<img src="imagens/BlindStick.Logo.png">
 </p>
 
 
