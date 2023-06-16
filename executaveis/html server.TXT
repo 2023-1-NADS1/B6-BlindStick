@@ -1,0 +1,3 @@
+Copie e cole este endereço em seu navegador para acessar a função "FindStick":
+
+http://192.168.4.1/ligar
